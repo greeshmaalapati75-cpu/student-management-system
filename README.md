@@ -221,3 +221,4 @@ the app is running.)_
 - A reverse proxy (nginx) in front of Gunicorn with HTTPS
 - Automated MySQL backups
 - Rate limiting on the login endpoint
+CI/CD Test - GitHub Actions
