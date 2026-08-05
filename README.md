@@ -222,3 +222,4 @@ the app is running.)_
 - Automated MySQL backups
 - Rate limiting on the login endpoint
 CI/CD Test - GitHub Actions
+developed by greeshma
